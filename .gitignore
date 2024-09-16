@@ -1,0 +1,13 @@
+1. .iml
+2. gradle.properties
+3. local.properties
+4. .idea/libraries
+5. .idea/modules.xml
+6. .idea/workspace.xml
+7. .idea/navEditor.xml
+8. .idea/assetWizardSettings.xml
+9. build/
+10. captures/
+11. .DS_Store
+12. externalNativeBuild/
+13. local.properties
